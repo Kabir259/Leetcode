@@ -9,10 +9,10 @@ b) You are autistic
 c) You do Codeforces/Atcoder 
 <br>
 <br>
-_If you want to start CP, enroll in AlgoZenith's(better)/TLE Eliminators course) **OR** practice [CP-31](https://www.tle-eliminators.com/cp-sheet), [CSES](https://cses.fi/problemset/) and Div4+3+2+Edu virtual contests to begin with. **Don't** do any other CP ladder like [A2OJ](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html) or [C2](https://c2-ladders-juol.onrender.com/) before completing CP-31 and CSES._
+_If you want to start CP, enroll in AlgoZenith's(better)/TLE Eliminators course **OR** practice [CP-31](https://www.tle-eliminators.com/cp-sheet), [CSES](https://cses.fi/problemset/) and Div4+3+Edu virtual contests to begin with. **Don't** do any other CP ladder like [A2OJ](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html) or [C2](https://c2-ladders-juol.onrender.com/) before completing CP-31 and CSES._
 <br>
 <br>
-_I haven't included [sean prasad's list](https://seanprashad.com/leetcode-patterns/) and [Neetcode](neetcode.io) as I think if you want to go down that path, striver is better in setting you up with the initial motivation and handicapping you with video solutions while giving you a false sense of security of you being able to do questions. Once you feel you've got a grasp on the basic syntax, start practicing randomly on leetcode by sorting questions and not looking at videos before you understand the solutions/discussions on leetcode_
+I haven't included [sean prasad's list](https://seanprashad.com/leetcode-patterns/) and [Neetcode](neetcode.io) as I think if you want to go down that path, striver is better in setting you up with the initial motivation and handicapping you with video solutions while giving you a false sense of security of you being able to do questions. Once you feel you've got a grasp on the basic syntax, start practicing randomly on leetcode by sorting questions and not looking at videos before you understand the solutions/discussions on leetcode
 
 ## Coding
 ### General
