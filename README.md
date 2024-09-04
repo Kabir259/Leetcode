@@ -9,13 +9,14 @@ b) You are autistic
 c) You do Codeforces/Atcoder 
 <br>
 <br>
-_If you want to start CP, enroll in AlgoZenith's(better)/TLE Eliminators course **OR** practice [CP-31](https://www.tle-eliminators.com/cp-sheet), [CSES](https://cses.fi/problemset/) and Div4+3+Edu virtual contests to begin with. **Don't** do any other CP ladder like [A2OJ](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html) or [C2](https://c2-ladders-juol.onrender.com/) before completing CP-31 and CSES._
+_If you want to start CP, enroll in AlgoZenith's(better)/TLE Eliminators course **OR** practice [Senior (**best imo**)](https://asksenior.in/learn), [CP-31 (level-wise)](https://www.tle-eliminators.com/cp-sheet), [Striver's CP Sheet (Topic wise)](https://takeuforward.org/interview-experience/strivers-cp-sheet), [CSES](https://cses.fi/problemset/) and Div4+3+Edu virtual contests to begin with. **Don't** do any other CP ladder like [A2OJ](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html) or [C2](https://c2-ladders-juol.onrender.com/) before completing any one of the lists mentioned above as they are guided lists (Senior's list is best for practice. Arranged Topic wise + A/B/C/D wise)._
 <br>
 <br>
-I haven't included [sean prasad's list](https://seanprashad.com/leetcode-patterns/) and [Neetcode](neetcode.io) as I think if you want to go down that path, striver is better in setting you up with the initial motivation and handicapping you with video solutions while giving you a false sense of security of you being able to do questions. Once you feel you've got a grasp on the basic syntax, start practicing randomly on leetcode by sorting questions and not looking at videos before you understand the solutions/discussions on leetcode
+I haven't included [Sean Prasad's list](https://seanprashad.com/leetcode-patterns/) and [Neetcode](neetcode.io) as I think if you want to go down that path, striver is better in setting you up with the initial motivation and handicapping you with video solutions while giving you a false sense of security of you being able to do questions. Once you feel you've got a grasp on the basic syntax, start practicing randomly on leetcode by sorting questions and not looking at videos before you understand the solutions/discussions on leetcode
 
 ## Coding
 ### General
+```Senior's CP practice list (link above) is best imo coupled with striver's list for getting your basics right if you have time before your OAs i.e. 6 months<]```
 1. https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2
 2. https://leetcode.com/discuss/study-guide/1473582/collected-important-links-for-placements
 3. https://cses.fi/problemset/
@@ -30,6 +31,8 @@ I haven't included [sean prasad's list](https://seanprashad.com/leetcode-pattern
 12. https://leetcode.com/discuss/general-discussion/709997/questions-based-on-articulation-points-and-bridges
 13. https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
 ### Trees
+```Do Trees from Striver's Trees (Medium+Hard) first (don't ignore traversal and ancestor problems, they frequently come in OAs). After that solve extra/fringe questions from here```
+<br>
 15. https://leetcode.com/discuss/study-guide/1337373/tree-question-pattern-2021-placement
 ## ML
 1. https://github.com/srush/Tensor-Puzzles
