@@ -40,8 +40,10 @@ Do Trees from Striver's Trees (Medium+Hard) first (don't ignore traversal and an
 ## ML + Data Science
 [StrataScratch](https://platform.stratascratch.com/coding?code_type=2&is_freemium=1) is the leetcode of Data Science. In DS OAs, competittion is close to NULL and prep is EASY. A DS OA will always be centred around python coding ONLY. In python, it will usually be SQL and Numpy+Pandas. Practice this on Stratascratch. An easy(relative to SWE, appx. 800-1200(max) rated questions equivalent to Codeforces) coding round follows with 2-3 questions.
 <br>
+I've made a **list of buzzwords** I encountered during an DS MCQ round in the Data Science/buzzwords.txt. Do look at that. 
 <br>
-I've made a **list of buzzwords** I encountered during an DS MCQ round in the Data Science directory. Do look at that. _BTW the pay of a DS is equal to that of a SWE, has equal exit job oppurtunities, puts you in a big company, makes it easy for you to pursue an MBA later, makes it easy to get a core ML role later, the probability and stats you'll learn will help you in countless interviews and unexpected MCQ rounds, you can proudly write SQL and PostgreSQL in your CV, the test has NO competition, the prep intensity difference between SWE and DS is quite literally night and day. **If you're not preparing for it, you either are: an amazing programmer (1600< on Codeforces) or a huuuggeee fucking idiot**_
+<br>
+_BTW the pay of a DS is equal to that of a SWE, has equal exit job oppurtunities, puts you in a big company, makes it easy for you to pursue an MBA later, makes it easy to get a core ML role later, the probability and stats you'll learn will help you in countless interviews and unexpected MCQ rounds, you can proudly write SQL and PostgreSQL in your CV, the test has NO competition, the prep intensity difference between SWE and DS is quite literally night and day. **If you're not preparing for it, you either are: an amazing programmer (1600< on Codeforces) or a huuuggeee fucking idiot**_
 <br>
 <br>
 1. https://github.com/srush/Tensor-Puzzles (PyTorch, not asked in DS, good to know for ML)

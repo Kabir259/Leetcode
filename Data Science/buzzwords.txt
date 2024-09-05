@@ -1,0 +1,43 @@
+meesho dice 2024 DS MCQ round on unstop
+
+null hypothesis, A/B testing, CI/CD, p-value, chi-square test, bootstrapping methods for data analysis, bayesian analysis, confidence interval
+Apriori algorithm
+FP growth algorithm
+Ecdat algorithm
+GSP algorithm
+data frequency, skewed data handling
+z score, normalisation, logarithm(data), max-min
+Latent Dirichlet Allocation
+naive bayes 
+sklearn.naivebayes
+dimensionality reduction
+pca
+word2vec
+k-means
+TF-IDF vectors
+NMF (Non-negative matrix factorization)
+topic extraction
+numpy matrix mult
+edge computing
+data fusion
+decentralised data storage
+high bandwith infrastructure
+dynamic prioritisation and compresiion of data
+pyspark (avg sales per customer, groupby, mean aggregate methods etc.)
+plots and their use cases (scatter, histogram, control chart)
+fraud detection strategies and VIF
+corelations b/w columns of dataset
+data redundancy
+spot instances
+cloud based analytics
+HIVE table creation
+issue identification with excel: pivot tables & charts, filters, slicers, sparklines
+rule based reccomender systems
+collaborative filtering
+matrix factorisation
+statsmodel.tsa.arima import ARIMA for sequential data analysis
+finance: monte carlo, reinforcement learning for fin: deep-q networks, double-q learning, policy gradient
+conversion rate and churn
+scipy.stats for making a pdf/cdf of a distribution
+seaborne methods for making basic graphs read docs
+
