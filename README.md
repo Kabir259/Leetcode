@@ -16,11 +16,12 @@ I haven't included [Sean Prasad's list](https://seanprashad.com/leetcode-pattern
 
 ## Coding
 ### General
-```Senior's CP practice list (link above) is best imo coupled with striver's list for getting your basics right if you have time before your OAs i.e. 6 months or more```
+```Senior's CP practice list (link above) is best imo coupled with a leetcode list for getting your basics right if you have time before your OAs i.e. 6 months or more```
 1. https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2
 2. https://leetcode.com/discuss/study-guide/1473582/collected-important-links-for-placements
 3. https://cses.fi/problemset/
 4. https://www.interviewbit.com/courses/programming/
+5. https://www.youtube.com/channel/UCVwE-4-VatT1Qo9_JJxUdSw (If you want to do leetcode, then this is an equally good _(VERY good)_ alternative to striver. For prefix sum questions, blindly follow him. I've solved many prefix sum questions using the same method in the Arrays subdirectory.)
 ### Array
 6. https://leetcode.com/discuss/interview-question/operating-system/4417164/Basic-to-Advanced-Array-Questions-with-Techniques
 ### DP
@@ -32,8 +33,7 @@ I haven't included [Sean Prasad's list](https://seanprashad.com/leetcode-pattern
 13. https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
 ### Trees
 14. https://leetcode.com/discuss/study-guide/1337373/tree-question-pattern-2021-placement
-<br>
-Do Trees from Striver's Trees (Medium+Hard) first (don't ignore traversal and ancestor problems, they frequently come in OAs). After that solve extra/fringe questions from here
+_Do Trees from Striver's Trees (Medium+Hard) first (don't ignore traversal and ancestor problems, they frequently come in OAs). After that solve extra/fringe questions from here_
 
 
 
@@ -51,6 +51,7 @@ _BTW the pay of a DS is equal to that of a SWE, has equal exit job oppurtunities
 3. https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb
 4. https://rajkachhadiya.medium.com/ace-your-ai-interview-mastering-machine-learning-deep-learning-q-a-2024-831e87d1942e
 5. https://www.youtube.com/playlist?list=PLgJhDSE2ZLxaY_DigHeiIDC1cD09rXgJv
+6. https://www.youtube.com/watch?v=phai5Jegnew&list=PLtfxzVLWb-B9KsCCrBUE5a2HcaodgOHSi (StrataScratch playlist you can blindly follow)
 
 
 ## Extra (OS + DBMS + Computer Networks + C++ dry runs)
@@ -59,8 +60,10 @@ _BTW the pay of a DS is equal to that of a SWE, has equal exit job oppurtunities
 3. https://www.youtube.com/watch?v=0u66_vNiRlo
 4. https://github.com/ranjit1032002/DBMS-Notes-For-Placement/blob/master/DBMS_Notes.pdf
 5. https://docs.google.com/document/d/1I5ZzX14p-xg47ePhdk7Xzy0Rz1x-mHZ7KCosJPc48Kk/edit?usp=sharing
-6. https://realpython.com/intro-to-python-threading/
+6. https://realpython.com/intro-to-python-threading/ (optional, must for parallel prog./HPC roles)
 7. https://clas.iusb.edu/docs/CSCI/C101-PracticeProblems.pdf (goated)
+8. https://www.sanfoundry.com/cplusplus-interview-questions-answers/
+9. https://www.sanfoundry.com/computer-network-questions-answers/#network-management-tools-systems-engineering
 
 
 ## Resume Projects
