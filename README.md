@@ -1,27 +1,41 @@
 # Placement Prep
 I'm very retarded and hyperfixated on maintaining clean and organised repos. If you're here for prep, here's what I am doing for 2024 placements prep. IF you want to, you can follow all of this blindly as I've already done the internet scrounging for you and compiled all the best resources you literally don't need to touch anything else UNLESS: 
 <br>
-<br>
+
 a) You want to goon to the endless leetcode lists available on the net
 <br>
 b) You are autistic
 <br>
 c) You do Codeforces/Atcoder 
 <br>
+
+If you want to start CP, either pay and enroll in [AlgoZenith's(better)](https://maang.in/)/[TLE Eliminators](https://www.tle-eliminators.com/) courses **OR** practice [CSES](https://cses.fi/problemset/) > [CP-31 (level-wise)](https://www.tle-eliminators.com/cp-sheet) > [Senior _(Topic wise + A/B/C/D wise good arrangement, but a lot of the solutions videos are **TRASH**)_](https://asksenior.in/learn) ~ [Striver's CP Sheet (Topic wise)](https://takeuforward.org/interview-experience/strivers-cp-sheet) and Div4+3+Edu virtual contests to begin with. _(**Don't** do any other CP ladder like [A2OJ](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html) or [C2](https://c2-ladders-juol.onrender.com/). Whatever I've mentioned is enough.)_
 <br>
-_If you want to start CP, enroll in AlgoZenith's(better)/TLE Eliminators course **OR** practice [Senior (**best imo**)](https://asksenior.in/learn), [CP-31 (level-wise)](https://www.tle-eliminators.com/cp-sheet), [Striver's CP Sheet (Topic wise)](https://takeuforward.org/interview-experience/strivers-cp-sheet), [CSES](https://cses.fi/problemset/) and Div4+3+Edu virtual contests to begin with. **Don't** do any other CP ladder like [A2OJ](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html) or [C2](https://c2-ladders-juol.onrender.com/) before completing any one of the lists mentioned above as they are guided lists (Senior's list is best for practice. Arranged Topic wise + A/B/C/D wise)._
-<br>
-<br>
+
 I haven't included [Sean Prasad's list](https://seanprashad.com/leetcode-patterns/) and [Neetcode](neetcode.io) as I think if you want to go down that path, striver is better in setting you up with the initial motivation and handicapping you with video solutions while giving you a false sense of security of you being able to do questions. Once you feel you've got a grasp on the basic syntax, start practicing randomly on leetcode by sorting questions and not looking at videos before you understand the solutions/discussions on leetcode, or just do a CP sheet(that would be better if you have time).
 
 ## Coding
 ### General
-```Senior's CP practice list (link above) is best imo coupled with a leetcode list for getting your basics right if you have time before your OAs i.e. 6 months or more```
+Topic-wise questions from a leetcode list -> basics syntax done -> 
+<br>
+
+First Option: Practice leetcode medium+hard randomly in the topic.
+<br>
+
+Second Option: Practice interviewbit they have SUPER good questions and good sub-categorisation.
+<br>
+
+**Third Option(Reccomended)**: Practice on codechef (paying them money is worth it). This will be the closest to what you will get in the OA, a leetcode style interface with CP-like questions. They have an amazing SQL+Python+DS roadmap too which gets unlocked when you buy their subscription & an AI debugger within the code editor.
+<br>
+
+Fourth Option: CP list + virtual contests(if you have time).
+<br>
+
 1. https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2
-2. https://leetcode.com/discuss/study-guide/1473582/collected-important-links-for-placements
-3. https://cses.fi/problemset/
+2. https://leetcode.com/discuss/study-guide/1473582/collected-important-links-for-placements (topic wise lists for further leetcode: binary search, DP, graph, greedy, hash table & map, sliding window, tree, trie, string)
+3. https://www.codechef.com/practice#interview
 4. https://www.interviewbit.com/courses/programming/
-5. https://www.youtube.com/channel/UCVwE-4-VatT1Qo9_JJxUdSw (If you want to do leetcode, then this is an equally good _(VERY good)_ alternative to striver. For prefix sum questions, blindly follow him. I've solved many prefix sum questions using the same method in the Arrays subdirectory.)
+5. https://www.youtube.com/channel/UCVwE-4-VatT1Qo9_JJxUdSw (If you want to do leetcode, then this is an equally good _(VERY good)_ alternative to striver. _For prefix sum questions, blindly follow him. I've solved many prefix sum questions using the same method in the Arrays subdirectory._)
 ### Array
 6. https://leetcode.com/discuss/interview-question/operating-system/4417164/Basic-to-Advanced-Array-Questions-with-Techniques
 ### DP
@@ -38,11 +52,18 @@ _Do Trees from Striver's Trees (Medium+Hard) first (don't ignore traversal and a
 
 
 ## ML + Data Science
-[StrataScratch](https://platform.stratascratch.com/coding?code_type=2&is_freemium=1) is the leetcode of Data Science. In DS OAs, competittion is close to NULL and prep is EASY. A DS OA will always be centred around python coding ONLY. In python, it will usually be SQL and Numpy+Pandas. Practice this on Stratascratch. An easy(relative to SWE, appx. 800-1200(max) rated questions equivalent to Codeforces) coding round follows with 2-3 questions.
+In DS OAs, competittion is close to NULL and prep is EASY. A DS OA will always be centred around python coding ONLY. In python, it will usually be SQL and Numpy+Pandas. Practice this on Stratascratch. An easy(relative to SWE, appx. 800-1200(max) rated questions equivalent to Codeforces) coding round follows with 2-3 questions.
 <br>
+
+[StrataScratch](https://platform.stratascratch.com/coding?code_type=2&is_freemium=1) is the leetcode of Data Science. StrataScratch has videos on youtube that you can refer to while solving or use them as main source of reference (as a sheet per se). 
+<br>
+
+[Codechef](https://www.codechef.com/roadmap/sql) is **GREAT** but no videos :( but the UI is great idk man choose whatever you like. Codechef has a **Roadmap** you can follow so theres that.
+<br>
+
 I've made a **list of buzzwords** I encountered during an DS MCQ round in the Data Science/buzzwords.txt. Do look at that. 
 <br>
-<br>
+
 _BTW the pay of a DS is equal to that of a SWE, has equal exit job oppurtunities, puts you in a big company, makes it easy for you to pursue an MBA later, makes it easy to get a core ML role later, the probability and stats you'll learn will help you in countless interviews and unexpected MCQ rounds, you can proudly write SQL and PostgreSQL in your CV, the test has NO competition, the prep intensity difference between SWE and DS is quite literally night and day. **If you're not preparing for it, you either are: an amazing programmer (1600< on Codeforces) or a huuuggeee fucking idiot**_
 <br>
 <br>
@@ -51,7 +72,8 @@ _BTW the pay of a DS is equal to that of a SWE, has equal exit job oppurtunities
 3. https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb
 4. https://rajkachhadiya.medium.com/ace-your-ai-interview-mastering-machine-learning-deep-learning-q-a-2024-831e87d1942e
 5. https://www.youtube.com/playlist?list=PLgJhDSE2ZLxaY_DigHeiIDC1cD09rXgJv
-6. https://www.youtube.com/watch?v=phai5Jegnew&list=PLtfxzVLWb-B9KsCCrBUE5a2HcaodgOHSi (StrataScratch playlist you can blindly follow)
+6. https://www.youtube.com/watch?v=phai5Jegnew&list=PLtfxzVLWb-B9KsCCrBUE5a2HcaodgOHSi (StrataScratch python+numpy+pandas playlist you can blindly follow)
+7. https://www.youtube.com/playlist?list=PLdrw9_aIADIO_l7hCd4xiJ2mBwiOb4jkU (StrataScratch SQL playlist you can blindly follow)
 
 
 ## Extra (OS + DBMS + Computer Networks + C++ dry runs)
