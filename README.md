@@ -1,4 +1,9 @@
 # Placement Prep
+## Drug Abuse Counter
+Modafinil: ```1```, Ciggies _(Marlboro Big Advanced, Gold & Goldflake Honeydew Smooth are my fav)_: ```41```, Booze: ```0ml```, Za: ```0```, ADHD meds: ```68mg Atomoxetine daily```, Asthma inhaler puffs: ```15```
+
+
+## Read this first
 I'm very retarded and hyperfixated on maintaining clean and organised repos. If you're here for prep, here's what I am doing for 2024 placements prep. IF you want to, you can follow all of this blindly as I've already done the internet scrounging for you and compiled all the best resources you literally don't need to touch anything else UNLESS: 
 <br>
 
@@ -9,23 +14,29 @@ b) You are autistic
 c) You do Codeforces/Atcoder 
 <br>
 
-If you want to start CP, either pay and enroll in [AlgoZenith's(better)](https://maang.in/)/[TLE Eliminators](https://www.tle-eliminators.com/) courses **OR** practice [CSES](https://cses.fi/problemset/) > [CP-31 (level-wise)](https://www.tle-eliminators.com/cp-sheet) > [Senior _(Topic wise + A/B/C/D wise good arrangement, but a lot of the solutions videos are **TRASH**)_](https://asksenior.in/learn) ~ [Striver's CP Sheet (Topic wise)](https://takeuforward.org/interview-experience/strivers-cp-sheet) and Div4+3+Edu virtual contests to begin with. _(**Don't** do any other CP ladder like [A2OJ](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html) or [C2](https://c2-ladders-juol.onrender.com/). Whatever I've mentioned is enough.)_
+First, watch this [video](https://www.youtube.com/watch?v=uoGTHbD2avE).
+<br>
+
+Now, if you want to start CP, either pay and enroll in [AlgoZenith's(better)](https://maang.in/)/[TLE Eliminators](https://www.tle-eliminators.com/) courses **OR** practice [SPOJ Classical](https://www.spoj.com/problems/classical/) = [CSES](https://cses.fi/problemset/) > [CP-31 (level-wise)](https://www.tle-eliminators.com/cp-sheet) > [Senior _(Topic wise + A/B/C/D wise good arrangement, but a lot of the solutions videos are **TRASH**)_](https://asksenior.in/learn) ~ [Striver's CP Sheet (Topic wise)](https://takeuforward.org/interview-experience/strivers-cp-sheet) and Div4+3+Edu virtual contests to begin with. _(**Don't** do any other CP ladder like [A2OJ](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html) or [C2](https://c2-ladders-juol.onrender.com/). Whatever I've mentioned is enough.)_
 <br>
 
 I haven't included [Sean Prasad's list](https://seanprashad.com/leetcode-patterns/) and [Neetcode](neetcode.io) as I think if you want to go down that path, striver is better in setting you up with the initial motivation and handicapping you with video solutions while giving you a false sense of security of you being able to do questions. Once you feel you've got a grasp on the basic syntax, start practicing randomly on leetcode by sorting questions and not looking at videos before you understand the solutions/discussions on leetcode, or just do a CP sheet(that would be better if you have time).
+<br>
+
+**Make sure to install [Leetcode Fix](https://chromewebstore.google.com/detail/leetcode-fix/kgenneohccgagookoocgihpkohmehnip) before solving randomly. You should not attempt the questions with a lot of dislikes w.r.t. likes.**
 
 ## Coding
 ### General
 Topic-wise questions from a leetcode list -> basics syntax done -> 
 <br>
 
-First Option: Practice leetcode medium+hard randomly in the topic.
+**First Option(Reccomended)**: Practice leetcode medium+hard randomly in the topic.
 <br>
 
-Second Option: Practice interviewbit they have SUPER good questions and good sub-categorisation.
+Second Option: Practice interviewbit they have good questions and good sub-categorisation.
 <br>
 
-**Third Option(Reccomended)**: Practice on codechef (paying them money is worth it). This will be the closest to what you will get in the OA, a leetcode style interface with CP-like questions. They have an amazing SQL+Python+DS roadmap too which gets unlocked when you buy their subscription & an AI debugger within the code editor.
+Third Option: Practice on codechef (paying them money is worth it). This will be the closest to what you will get in the OA, a leetcode style interface with CP-like questions. They have an amazing SQL+Python+DS roadmap too which gets unlocked when you buy their subscription & an AI debugger within the code editor.
 <br>
 
 Fourth Option: CP list + virtual contests(if you have time).
@@ -36,18 +47,34 @@ Fourth Option: CP list + virtual contests(if you have time).
 3. https://www.codechef.com/practice#interview
 4. https://www.interviewbit.com/courses/programming/
 5. https://www.youtube.com/channel/UCVwE-4-VatT1Qo9_JJxUdSw (If you want to do leetcode, then this is an equally good _(VERY good)_ alternative to striver. _For prefix sum questions, blindly follow him. I've solved many prefix sum questions using the same method in the Arrays subdirectory._)
+
+### How do I do random prep??? Where do I find similar questions to a topic?????1!1!!11!!!!
+Browse down to the ```Similar Questions``` tab under the description of a leetcode question retard. Or just straight up raw dog questions by sorting the entire leetcode problemset with your question's tag and attempting medium and hard.
+
 ### Array
-6. https://leetcode.com/discuss/interview-question/operating-system/4417164/Basic-to-Advanced-Array-Questions-with-Techniques
+1. https://leetcode.com/discuss/interview-question/operating-system/4417164/Basic-to-Advanced-Array-Questions-with-Techniques
+2. https://www.youtube.com/watch?v=1R0iKZIJwsA&list=PL-dHsQJqbXKnII-6eSmTQlpmpy95mqDOp&index=2 (Kadane's algo)
+3. https://www.youtube.com/watch?v=d0x0E15cieY&list=PLICVjZ3X1AcbaR4HkAjT7IG7f_XaG5Iwn (1D Prefix Sum, use his method everywhere in 1D PS questions. I have solved many using his techinque, check out the array subdirectory. DON'T watch striver for prefix sum PLEASE.) 
+4. https://www.youtube.com/watch?v=LsyVvdlXLSM&list=PL-dHsQJqbXKlU9imB8OoozyJOm8VWhWx5 (2D Prefix Sum)
+5. https://medium.com/@maityamit/prefix-sum-summary-with-practice-questions-sheet-1d-2d-on-leetcode-83c8deb4f713 (Good Prefix Sum questions)
+
+### Binary Search + 2 pointers + Sliding window
+1. Don't watch [Aditya Verma's](https://www.youtube.com/@TheAdityaVerma/playlists) playlist for this. I don't think you need to see dry runs on paper for such easy topics. DP is exempted from this rule (if you're studying DP for the first time, his playlist is good)
+2. https://www.youtube.com/watch?v=8WE3_HdBRXg&list=PLICVjZ3X1AcYYdde4GTp79zfdp_VACSkX (Watch this, solve his questions and then solve questions from striver's sheet. Don't watch striver's videos for this)
+3. Striver for 2-pointers is good. You can watch his videos.
+
 ### DP
-8. https://leetcode.com/discuss/general-discussion/1050391/Must-do-Dynamic-programming-Problems-Category-wise
+1. https://leetcode.com/discuss/general-discussion/1050391/Must-do-Dynamic-programming-Problems-Category-wise
+
 ### Graph
-10. https://leetcode.com/discuss/study-guide/1326900/graph-algorithms-problems-to-practice
-11. https://leetcode.com/discuss/general-discussion/969327/Graph-Algorithms-One-Place-or-Dijkstra-or-Bellman-Ford-or-Floyd-Warshall-or-Prims-or-Kruskals-or-DSU
-12. https://leetcode.com/discuss/general-discussion/709997/questions-based-on-articulation-points-and-bridges
-13. https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
+1. https://leetcode.com/discuss/study-guide/1326900/graph-algorithms-problems-to-practice
+2. https://leetcode.com/discuss/general-discussion/969327/Graph-Algorithms-One-Place-or-Dijkstra-or-Bellman-Ford-or-Floyd-Warshall-or-Prims-or-Kruskals-or-DSU
+3. https://leetcode.com/discuss/general-discussion/709997/questions-based-on-articulation-points-and-bridges
+4. https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
+
 ### Trees
-14. https://leetcode.com/discuss/study-guide/1337373/tree-question-pattern-2021-placement
-_Do Trees from Striver's Trees (Medium+Hard) first (don't ignore traversal and ancestor problems, they frequently come in OAs). After that solve extra/fringe questions from here_
+1. https://leetcode.com/discuss/study-guide/1337373/tree-question-pattern-2021-placement
+_(Do Trees from Striver's Trees (Medium+Hard) first (don't ignore traversal and ancestor problems, they frequently come in OAs). After that solve extra/fringe questions from here)_
 
 
 
