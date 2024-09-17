@@ -1,7 +1,4 @@
 # Placement Prep
-## Drug Abuse Counter
-Modafinil: ```1```, Ciggies _(Marlboro Big Advanced, Gold & Goldflake Honeydew Smooth are my fav)_: ```41```, Booze: ```0ml```, Za: ```0```, ADHD meds: ```68mg Atomoxetine daily```, Asthma inhaler puffs: ```15```
-
 
 ## Read this first
 I'm very retarded and hyperfixated on maintaining clean and organised repos. If you're here for prep, here's what I am doing for 2024 placements prep. IF you want to, you can follow all of this blindly as I've already done the internet scrounging for you and compiled all the best resources you literally don't need to touch anything else UNLESS: 
@@ -120,3 +117,7 @@ _BTW the pay of a DS is equal to that of a SWE, has equal exit job oppurtunities
 2. https://austinhenley.com/blog/morechallengingprojects.html (best for SWE)
 3. https://austinhenley.com/blog/challengingalgorithms.html (best for SWE)
 4. https://raytracing.github.io/books/RayTracingInOneWeekend.html (great for SWE + Computer Vision profiles)
+
+## SRE/DevOps resources
+These jobs don't come in placements but later in one's career.
+1. https://www.reddit.com/r/sre/comments/tgb5mk/getting_into_faang_sre/
