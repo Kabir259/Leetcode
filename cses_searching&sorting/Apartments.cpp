@@ -1,4 +1,5 @@
 #include <iostream>
+#include <fstream>
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -36,7 +37,6 @@ typedef pair<ii, ii> pii;
 typedef vector<pii> vpii;
 
 typedef vector<str> vs;
-typedef unordered_map<ll,ll> umll;
 typedef map<ll,ll> mll;
 typedef set<ll> sll;
 typedef unordered_set<ll> usll;
@@ -46,10 +46,6 @@ typedef unordered_set<ll> usll;
 #define ss second
 #define pb push_back
 #define mp make_pair
-#define fli(i,m,n) for(int i=m;i<n;i++)
-#define rfli(i,m,n) for(int i=m;i>=n;i--)
-#define fll(i,m,n) for(ll i=m;i<n;i++)
-#define rfll(i,m,n) for(ll i=m;i>=n;i--)
 #define py cout<<"YES\n";
 #define pm cout<<"-1\n";
 #define pn cout<<"NO\n";
@@ -58,7 +54,25 @@ typedef unordered_set<ll> usll;
 
 
 // Code-----------------------------------------------------------------------------------------------
-void f(){
+void f(int n, int m , int k , vector<pair<int,int> >& size_choice, vector<int>& apartment_size){
+    int house_allocated = 0;
+
+    int i = 0, j = 0;
+
+    while(j<m && i<n){
+        int fwd = apartment_size[j];
+
+        if(size_choice[i].ff<=fwd<=size_choice[i].ss){
+            i++;
+            j++;
+            house_allocated++;
+        }
+        else{
+            j++;
+        } 
+    }
+
+    cout<<house_allocated;
 
 }
 
@@ -68,17 +82,25 @@ int main()
 {
     Speed Up Code
 
-    ll n,m,k;
+    int n,m,k;
     cin>>n>>m>>k;
-    vll people(n), apart(m);
-    for(int i =0; i<n; i++){
-        cin>>people[i];
-    }
-    for(int i = 0; i<m; i++){
-        cin>>apart[i];
+
+    vector<pair<int,int>> size_choice(n);
+    vector<int> apartment_size(n);
+
+    for(int i = 0; i<2; i++){
+        for(int i = 0; i<n; i++){
+            int a;
+            cin>>a;
+            pair<int,int> p = make_pair(a-k,a+k);
+            size_choice[i] = p;
+        }
+        for(int i = 0; i<m; i++){
+            cin>>apartment_size[i];
+        }
     }
 
-    sort
+    f(n,m,k,size_choice,apartment_size); 
 
     return 0;
 }

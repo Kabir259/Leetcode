@@ -82,7 +82,7 @@ In DS OAs, competittion is close to NULL and prep is EASY. A DS OA will always b
 [StrataScratch](https://platform.stratascratch.com/coding?code_type=2&is_freemium=1) is the leetcode of Data Science. StrataScratch has videos on youtube that you can refer to while solving or use them as main source of reference (as a sheet per se). 
 <br>
 
-[Codechef](https://www.codechef.com/roadmap/sql) is **GREAT** but no videos :( but the UI is great idk man choose whatever you like. Codechef has a **Roadmap** you can follow so theres that.
+[Codechef](https://www.codechef.com/roadmap/sql) is meh. Don't buy.
 <br>
 
 I've made a **list of buzzwords** I encountered during an DS MCQ round in the Data Science/buzzwords.txt. Do look at that. 
@@ -98,6 +98,7 @@ _BTW the pay of a DS is equal to that of a SWE, has equal exit job oppurtunities
 5. https://www.youtube.com/playlist?list=PLgJhDSE2ZLxaY_DigHeiIDC1cD09rXgJv
 6. https://www.youtube.com/watch?v=phai5Jegnew&list=PLtfxzVLWb-B9KsCCrBUE5a2HcaodgOHSi (StrataScratch python+numpy+pandas playlist you can blindly follow)
 7. https://www.youtube.com/playlist?list=PLdrw9_aIADIO_l7hCd4xiJ2mBwiOb4jkU (StrataScratch SQL playlist you can blindly follow)
+8. SQL Hard playlist (https://www.youtube.com/playlist?list=PLBTZqjSKn0IeKBQDjLmzisazhqQy4iGkb)
 
 
 ## Extra (OS + DBMS + Computer Networks + C++ dry runs)
