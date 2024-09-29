@@ -69,9 +69,9 @@ Browse down to the ```Similar Questions``` tab under the description of a leetco
 3. https://leetcode.com/discuss/general-discussion/709997/questions-based-on-articulation-points-and-bridges
 4. https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
 
-### Trees
-1. https://leetcode.com/discuss/study-guide/1337373/tree-question-pattern-2021-placement
-_(Do Trees from Striver's Trees (Medium+Hard) first (don't ignore traversal and ancestor problems, they frequently come in OAs). After that solve extra/fringe questions from here)_
+### Trees and Graphs
+1. https://www.youtube.com/playlist?list=PLICVjZ3X1AcZ5c2oXYABLHlswC_1LhelY (BEST!! I love his channel for learning concepts. Do this and then solve this trees list below)
+2. https://leetcode.com/discuss/study-guide/1337373/tree-question-pattern-2021-placement
 
 
 
