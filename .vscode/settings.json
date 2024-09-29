@@ -77,5 +77,6 @@
         "variant": "cpp",
         "algorithm": "cpp",
         "functional": "cpp"
-    }
+    },
+    "sqltools.connections": []
 }
