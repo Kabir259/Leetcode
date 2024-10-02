@@ -1,7 +1,13 @@
+/*
+ * @lc app=leetcode id=103 lang=cpp
+ *
+ * [103] Binary Tree Zigzag Level Order Traversal
+ */
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
 
+// @lc code=start
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -16,71 +22,41 @@ using namespace std;
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        queue<TreeNode*> qu; // You are passing an entire class into the qu not the constructor
-        
         vector<vector<int>> ans;
+        queue<TreeNode*> qu;
 
-        if(root==nullptr){
-            return ans;
+        if(root){
+            qu.push(root);
         }
 
-
-        bool evenFlag = true; // at 0 depth initially
-        qu.push(root);
+        bool evenflag = true;
 
         while(!qu.empty()){
-            auto x = qu.front();
-            int s = qu.size();
-            vector<int> v(s);
-
-            for(int i = 0; i<s; i++){
-                auto node = qu.front();
-                // v.push_back(node->val);
+            int level = qu.size();
+            vector<int> v;
+            for(int i = 0; i<level; i++){
+                auto x = qu.front(); 
                 qu.pop();
-
-                int index = evenFlag ? i : (s - 1 - i);
-                v[index] = node->val;
-
-                if (node->left != nullptr) {
-                    qu.push(node->left);
-                }
-                if (node->right != nullptr) {
-                    qu.push(node->right);
-                }
-
-                // if(evenFlag){
-                //     if(node->left!=nullptr){ 
-                //         qu.push(node->left);
-                //     }
-
-                //     if(node->right!=nullptr){ // dont use else if here as here if isnt used as a conditional but as a sanity check
-                //         qu.push(node->right);
-                //     }
-                // }
-                // else if(!evenFlag){
-                    
-
-                //     if(node->right!=nullptr){
-                //         qu.push(node->right);
-                //     }
-
-
-                //     if(node->left!=nullptr){
-                //         qu.push(node->left);
-                //     }
-
-                    
-                // }
-              
-
+                v.push_back(x->val);
+                
+                if(x->left) qu.push(x->left);
+                if(x->right) qu.push(x->right);
             }
-
-            ans.push_back(v);
-            evenFlag = !evenFlag;
+            if(evenflag){
+                ans.push_back(v);
+                evenflag = false;
+            }
+            else if(!evenflag){
+                reverse(v.begin(),v.end());
+                evenflag = true;
+                ans.push_back(v);
+            }
+            v.clear();
 
         }
 
         return ans;
+
     }
 };
 // @lc code=end
