@@ -142,13 +142,100 @@ but if while def the global var you put a static before it, the global var becom
 
 ## FUNCTIONS
 
+**static function**: no other c file in the same folder can access this function apart from the file it itself is present in.  
+  
+**call stack contains activation record**. act record contains: locals(int var declared and defined) and parameters of the callee, return address to the caller  
+  
+  
+**static scoping**: if var not found within function block, search for var in main() or global and use it  
+
+![](2024-10-05-01-33-46.png)  
+  
+**dynamic scoping**: if var not found within function block, check the caller's block(recursively till the end) for the var and use it
+
+![](2024-10-05-01-34-11.png)
+
+# A thing to notice in Qualcomm/Texas/Nvidia OAs is that they usually revolve around pointers and bit manipulation. I can safely skip forward to video no. 85. Im skipping functions
+
+## ARRAYS
+![](2024-10-05-12-19-21.png)
+
+![](2024-10-05-12-22-19.png)
+![](2024-10-05-12-24-19.png)
+
+![](2024-10-05-12-25-08.png)
+
+**const int a[N]**: const makes all the elts of the array immutable
+
+## POINTERS
+![](2024-10-05-15-24-21.png)  
+
+```c
+#include <stdio.h>
+
+int main() {
+    int a = 18;      // Declare an integer 'a' and assign the value 18
+
+    int *p;          // Declare a pointer 'p' to an integer
+    // a ptr is always declared with a *
+
+    int **q;         // Declare a pointer 'q' to a pointer to an integer
+    // a ptr to a ptr is always declared with a **
 
 
+    p = &a;          // Assign the address of 'a' to 'p'
+    q = &p;          // Assign the address of 'p' to 'q'
+    
+    return 
+```   
+```yaml
+
+Memory looks like this (AVV) :
+
+Address:      1000       1004       1008
+           +---------+ +---------+ +---------+
+Value:     |   18    | |  1000   | |  1004   | 
+           +---------+ +---------+ +---------+
+Variable:      a          p          q
+# the value can either take on a type(int,char etc..) or an address. when you give an address, it becomes a ptr, and to distinguish the ptr from being considered as any other int, we use a *
 
 
+```
 
 
+![](2024-10-05-15-50-27.png)
 
+here if you do ```p-q``` youll get ```1024-1008=16``` but remember as the size of an int is 4bytes, then ```16/4==4 array elts in bw ptrs p and q```.
 
+![](2024-10-05-15-53-15.png)
 
-   
+![](2024-10-05-15-54-28.png) 
+p++ means pointer moved to next elt by skipping 4bytes of data. 1000->1004 NOT 1001!!  
+also *(p++) means first p will be incremented then dereferenced  
+and  *(++p) means first p will be dereferenced then incremented  
+similarly for *(p--) and *(--p)
+
+![](2024-10-05-16-03-20.png)
+
+![](2024-10-05-16-06-24.png)
+```*(a+i)==a[i] where a is an array and &a[0]==a in practice```
+
+![](2024-10-05-16-04-51.png) this will throw error because the pointer to the the array (i.e. its first elt) is only readable not writable
+
+## Pointer + Array questions
+
+![](2024-10-05-16-12-40.png)
+![](2024-10-05-16-13-47.png)
+answer => 0 + [(40-0)*100+(50-0)]*1byte (assume char takes 1 byte)  
+       = 4050
+
+![](2024-10-05-16-18-00.png)
+FINAL ANS: 2036, 2036, 2036
+
+![](2024-10-05-16-19-54.png)
+
+![](2024-10-05-16-24-07.png)
+
+here ptr points to the whole 2d array. *ptr[1] points to the idx=1 element of the first 1d array. ++ptr means to move to the next 1d array within the 2d array superset. 
+
+![](2024-10-05-16-27-47.png)
