@@ -119,6 +119,69 @@ _BTW the pay of a DS is equal to that of a SWE, has equal exit job oppurtunities
 3. https://austinhenley.com/blog/challengingalgorithms.html (best for SWE)
 4. https://raytracing.github.io/books/RayTracingInOneWeekend.html (great for SWE + Computer Vision profiles)
 
+### DIY Fundamentals
+
+- [ ] **Game Engine** | Resume Appeal: ★★★
+  - _Good for graphics programming and AI (RL). Less relevant for typical software development roles._
+  - [ ] Implement a 3D rendering engine using OpenGL/Vulkan/DirectX.
+  - [ ] Build a real-time physics simulation (collision detection, dynamics).
+  - [ ] Add AI systems for basic game behavior (pathfinding, decision-making).
+  - [ ] Optimize for performance: reduce memory usage, improve frame rates.
+  - [ ] Implement user input handling (keyboard, mouse, controller).
+
+- [ ] **Raytracer** | Resume Appeal: ★★★
+  - _Will crack your vision dev roles._
+  - [ ] Implement basic ray-object intersections for rendering.
+  - [ ] Add reflections, refractions, and shadow effects.
+  - [ ] Apply texture mapping to 3D surfaces.
+  - [ ] Optimize with bounding volumes or acceleration structures (e.g., BVH).
+
+- [ ] **Operating System** | Resume Appeal: ★★★
+  - _Old and Gold for high performance/low latency roles. Less relevant for application development._
+  - [ ] Develop a basic kernel for system calls and interrupt handling.
+  - [ ] Implement memory management (paging, segmentation).
+  - [ ] Add process scheduling and multitasking.
+  - [ ] Create a file system supporting basic read/write operations.
+  - [ ] Implement basic device drivers (keyboard, storage).
+
+- [ ] **Compiler** | Resume Appeal: ★★★
+  - _Jaw Dropper. Recruiters value this for software engineering roles, especially in systems programming._
+  - [ ] Create a lexical analyzer to tokenize input code.
+  - [ ] Build a parser to generate an abstract syntax tree (AST).
+  - [ ] Implement code generation to produce machine code or intermediate representation (IR).
+  - [ ] Optimize the generated code (constant folding, dead code elimination).
+
+- [ ] **Distributed System** | Resume Appeal: ★★★
+  - _You'll learn networked computing, fault tolerance, and scalability. It's impressive for roles in cloud computing and backend development._
+  - [ ] Design a distributed file storage system (e.g., similar to Google Drive).
+  - [ ] Implement consensus algorithms (e.g., Paxos, Raft).
+  - [ ] Create a microservices architecture for a sample application.
+
+- [ ] **Blockchain** | Resume Appeal: ★★☆
+  - _It's valuable for roles in fintech and security._
+  - [ ] Build a simple cryptocurrency.
+  - [ ] Implement a smart contract platform (e.g., Ethereum).
+  - [ ] Develop a decentralized application (DApp) using smart contracts.
+
+- [ ] **Containerization Tool** | Resume Appeal: ★★☆
+  - _Docker exists. It's good for prepping DevOps roles but less complex than others._
+  - [ ] Develop a basic tool for creating and managing Docker containers.
+  - [ ] Implement orchestration features for scaling applications.
+  - [ ] Create a user interface for managing containerized applications.
+
+- [ ] **Web Framework** | Resume Appeal: ★☆☆
+  - _A web framework project highlights understanding of web development principles and architecture. It’s beneficial but can be seen as foundational in comparison to others._
+  - [ ] Build a lightweight web framework (e.g., similar to Flask or Express).
+  - [ ] Implement routing, middleware, and templating.
+  - [ ] Add support for RESTful APIs.
+
+- [ ] **Database Management System (DBMS)** | Resume Appeal: ★☆☆
+  - _A DBMS project is irrelevant as nobody wants to build SQL from scratch. It's fundamental but often considered basic in software development._
+  - [ ] Implement storage engines for data management.
+  - [ ] Create query processing and optimization features.
+  - [ ] Add transaction management and indexing.
+
+
 ## SRE/DevOps resources
 These jobs don't come in placements but later in one's career.
 1. https://www.reddit.com/r/sre/comments/tgb5mk/getting_into_faang_sre/

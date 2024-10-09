@@ -80,7 +80,9 @@ but if while def the global var you put a static before it, the global var becom
 
 ![](2024-10-02-16-24-10.png) static int can ONLY be init by a const, not a var.
 
-![](2024-10-02-18-07-50.png)
+![](2024-10-02-18-07-50.png)  
+  
+**static variables preserve their values outside of their scope too!!!!**
 
 #### memory storage of var while init (example: static var)
 [watch this video i cant explain it](https://www.youtube.com/watch?v=gegaS_gX3TY&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR&index=19)
