@@ -144,6 +144,6 @@ One solution to the multivalued dependency constraint problem is to:
 change the theme.  
 create a new theme.  
 
-
+```BRO I CANT MAKE SO MANY NOTES GO TO INTERVIEWBIT/INTERVIEWPREP/SQL AND DBMS AND SOLVE. CHECK THE NOTES IVE PASTED IN THIS FOLDER```
 
 

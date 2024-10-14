@@ -1,6 +1,16 @@
 # Placement Prep
+## 🛑✋ IMPORTANT
+**For Leetcode and Data Structures and Algorithms practice, [this repo is WAYY better than mine](https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master).**  
+*I honestly think that this 👆 combined with [HackerEarth](https://www.hackerearth.com/practice/) will land you any SDE job lmao.*
+  
 
-## Read this first
+```(14/10/24)``` The purpose of maintaining the Leetcode section of this repo is no more. Everything except Leetcode solutions (like C, ML, SQL, DBMS, Resume prep etc...) still remain valid. *You may go through my repo, if you want to look at my solutions or listen to my advice, simple as.*
+
+In case I find anything that can be improved upon this, I'll add footnotes here! 😸
+1. I think he hasn't covered MCM DP.
+
+
+## Before you read my 'blog'
 I'm very retarded and hyperfixated on maintaining clean and organised repos. If you're here for prep, here's what I am doing for 2024 placements prep. IF you want to, you can follow all of this blindly as I've already done the internet scrounging for you and compiled all the best resources you literally don't need to touch anything else UNLESS: 
 <br>
 
@@ -14,10 +24,13 @@ c) You do Codeforces/Atcoder
 First, watch this [video](https://www.youtube.com/watch?v=uoGTHbD2avE).
 <br>
 
-Now, if you want to start CP, either pay and enroll in [AlgoZenith's(better)](https://maang.in/)/[TLE Eliminators](https://www.tle-eliminators.com/) courses **OR** practice [SPOJ Classical](https://www.spoj.com/problems/classical/) = [CSES](https://cses.fi/problemset/) > [CP-31 (level-wise)](https://www.tle-eliminators.com/cp-sheet) > [Senior _(Topic wise + A/B/C/D wise good arrangement, but a lot of the solutions videos are **TRASH**)_](https://asksenior.in/learn) ~ [Striver's CP Sheet (Topic wise)](https://takeuforward.org/interview-experience/strivers-cp-sheet) and Div4+3+Edu virtual contests to begin with. _(**Don't** do any other CP ladder like [A2OJ](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html) or [C2](https://c2-ladders-juol.onrender.com/). Whatever I've mentioned is enough.)_
+Now, if you want to start CP, either pay and enroll in [AlgoZenith's(better)](https://maang.in/)/[TLE Eliminators](https://www.tle-eliminators.com/) courses **OR** practice [HackerEarth Tracks (The tutorials and editorials 🤌🤌🤌 *chef's kiss 💋*)](https://www.hackerearth.com/practice/) > [CSES](https://cses.fi/problemset/) >>> [CP-31 (level-wise)](https://www.tle-eliminators.com/cp-sheet) > [Senior _(Topic wise + A/B/C/D wise good arrangement, but a lot of the solutions videos are **TRASH**)_](https://asksenior.in/learn) ~ [Striver's CP Sheet (Topic wise)](https://takeuforward.org/interview-experience/strivers-cp-sheet) and Div4+3+Edu virtual contests to begin with. _**Don't** do any other CP ladder like [A2OJ](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html) or [C2](https://c2-ladders-juol.onrender.com/). Whatever I've mentioned is enough._
 <br>
 
-I haven't included [Sean Prasad's list](https://seanprashad.com/leetcode-patterns/) and [Neetcode](neetcode.io) as I think if you want to go down that path, striver is better in setting you up with the initial motivation and handicapping you with video solutions while giving you a false sense of security of you being able to do questions. Once you feel you've got a grasp on the basic syntax, start practicing randomly on leetcode by sorting questions and not looking at videos before you understand the solutions/discussions on leetcode, or just do a CP sheet(that would be better if you have time).
+I haven't included [Sean Prasad's list](https://seanprashad.com/leetcode-patterns/)(*this is utter trash btw*) and [Neetcode](neetcode.io). I you wanna watch videos and code in C++, I think striver is better in setting you up with the initial motivation (*and handicapping you with video solutions while giving you a false sense of security of you being able to do questions*). Choose whatever youtuber you like for the videos. If you can understand hindi, then [Code Concepts with Animesh](https://www.youtube.com/@code_concepts_with_animesh) is what I would reccomend to myself if I could time travel back to my past.  
+  
+
+Once you feel you've got a grasp on the basic syntax, start practicing randomly on leetcode by sorting questions and not looking at videos before you understand the solutions/discussions on leetcode, or just do a CP sheet(that would be better if you have time).
 <br>
 
 **Make sure to install [Leetcode Fix](https://chromewebstore.google.com/detail/leetcode-fix/kgenneohccgagookoocgihpkohmehnip) before solving randomly. You should not attempt the questions with a lot of dislikes w.r.t. likes.**
@@ -44,6 +57,8 @@ Fourth Option: CP list + virtual contests(if you have time).
 3. https://www.codechef.com/practice#interview
 4. https://www.interviewbit.com/courses/programming/
 5. https://www.youtube.com/channel/UCVwE-4-VatT1Qo9_JJxUdSw (If you want to do leetcode, then this is an equally good _(VERY good)_ alternative to striver. _For prefix sum questions, blindly follow him. I've solved many prefix sum questions using the same method in the Arrays subdirectory._)
+6. https://www.youtube.com/watch?v=wZqUKUOS-f0&list=PLauivoElc3gjOWWNgaF0SATV916dqYUzi&index=2
+7. https://www.youtube.com/watch?v=e21q59cAvYg&list=PLauivoElc3gjOWWNgaF0SATV916dqYUzi&index=3
 
 ### How do I do random prep??? Where do I find similar questions to a topic?????1!1!!11!!!!
 Browse down to the ```Similar Questions``` tab under the description of a leetcode question retard. Or just straight up raw dog questions by sorting the entire leetcode problemset with your question's tag and attempting medium and hard.
@@ -82,7 +97,7 @@ In DS OAs, competittion is close to NULL and prep is EASY. A DS OA will always b
 [StrataScratch](https://platform.stratascratch.com/coding?code_type=2&is_freemium=1) is the leetcode of Data Science. StrataScratch has videos on youtube that you can refer to while solving or use them as main source of reference (as a sheet per se). 
 <br>
 
-[Codechef](https://www.codechef.com/roadmap/sql) is meh. Don't buy.
+[Best Hands-on ML+DS resource ever](https://www.hackerearth.com/practice/machine-learning/prerequisites-of-machine-learning/basic-probability-models-and-rules/tutorial/) DO THIS! this is ALL you need!!
 <br>
 
 I've made a **list of buzzwords** I encountered during an DS MCQ round in the Data Science/buzzwords.txt. Do look at that. 
@@ -111,6 +126,7 @@ _BTW the pay of a DS is equal to that of a SWE, has equal exit job oppurtunities
 7. https://clas.iusb.edu/docs/CSCI/C101-PracticeProblems.pdf (goated)
 8. https://www.sanfoundry.com/cplusplus-interview-questions-answers/
 9. https://www.sanfoundry.com/computer-network-questions-answers/#network-management-tools-systems-engineering
+10. https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw (OOPS GOLDMINE)
 
 
 ## Resume Projects

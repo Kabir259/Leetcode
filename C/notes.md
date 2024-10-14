@@ -169,6 +169,7 @@ but if while def the global var you put a static before it, the global var becom
 
 **const int a[N]**: const makes all the elts of the array immutable
 
+# 🚦 Playlist phase 3 (reaching till strings), 50->75% Playlist
 ## POINTERS
 ![](2024-10-05-15-24-21.png)  
 
@@ -226,6 +227,8 @@ similarly for *(p--) and *(--p)
 
 ## Pointer + Array questions
 
+```for an array a, *(a+i) == a[i]```
+
 ![](2024-10-05-16-12-40.png)
 ![](2024-10-05-16-13-47.png)
 answer => 0 + [(40-0)*100+(50-0)]*1byte (assume char takes 1 byte)  
@@ -241,3 +244,10 @@ FINAL ANS: 2036, 2036, 2036
 here ptr points to the whole 2d array. *ptr[1] points to the idx=1 element of the first 1d array. ++ptr means to move to the next 1d array within the 2d array superset. 
 
 ![](2024-10-05-16-27-47.png)
+
+
+# 🚦 Playlist phase 4, 75->100% Playlist
+
+## STRINGS
+![](2024-10-11-14-53-44.png)
+
