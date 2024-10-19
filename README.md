@@ -83,6 +83,7 @@ Browse down to the ```Similar Questions``` tab under the description of a leetco
 2. https://leetcode.com/discuss/general-discussion/969327/Graph-Algorithms-One-Place-or-Dijkstra-or-Bellman-Ford-or-Floyd-Warshall-or-Prims-or-Kruskals-or-DSU
 3. https://leetcode.com/discuss/general-discussion/709997/questions-based-on-articulation-points-and-bridges
 4. https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
+5. https://www.wscubetech.com/resources/dsa/floyd-warshall-algorithm (good for interview prep where one needs to revise time complexities and pseudo codes )
 
 ### Trees and Graphs
 1. https://www.youtube.com/playlist?list=PLICVjZ3X1AcZ5c2oXYABLHlswC_1LhelY (BEST!! I love his channel for learning concepts. Do this and then solve this trees list below)
@@ -114,6 +115,7 @@ _BTW the pay of a DS is equal to that of a SWE, has equal exit job oppurtunities
 6. https://www.youtube.com/watch?v=phai5Jegnew&list=PLtfxzVLWb-B9KsCCrBUE5a2HcaodgOHSi (StrataScratch python+numpy+pandas playlist you can blindly follow)
 7. https://www.youtube.com/playlist?list=PLdrw9_aIADIO_l7hCd4xiJ2mBwiOb4jkU (StrataScratch SQL playlist you can blindly follow)
 8. SQL Hard playlist (https://www.youtube.com/playlist?list=PLBTZqjSKn0IeKBQDjLmzisazhqQy4iGkb)
+9. https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers/blob/main/Statistics%20Interview%20Questions%20%26%20Answers%20for%20Data%20Scientists.md (statistics)
 
 
 ## Extra (OS + DBMS + Computer Networks + C++ dry runs)
@@ -138,7 +140,6 @@ _BTW the pay of a DS is equal to that of a SWE, has equal exit job oppurtunities
 ### DIY Fundamentals
 
 - [ ] **Game Engine** | Resume Appeal: ★★★
-  - _Good for graphics programming and AI (RL). Less relevant for typical software development roles._
   - [ ] Implement a 3D rendering engine using OpenGL/Vulkan/DirectX.
   - [ ] Build a real-time physics simulation (collision detection, dynamics).
   - [ ] Add AI systems for basic game behavior (pathfinding, decision-making).
@@ -146,14 +147,12 @@ _BTW the pay of a DS is equal to that of a SWE, has equal exit job oppurtunities
   - [ ] Implement user input handling (keyboard, mouse, controller).
 
 - [ ] **Raytracer** | Resume Appeal: ★★★
-  - _Will crack your vision dev roles._
   - [ ] Implement basic ray-object intersections for rendering.
   - [ ] Add reflections, refractions, and shadow effects.
   - [ ] Apply texture mapping to 3D surfaces.
   - [ ] Optimize with bounding volumes or acceleration structures (e.g., BVH).
 
 - [ ] **Operating System** | Resume Appeal: ★★★
-  - _Old and Gold for high performance/low latency roles. Less relevant for application development._
   - [ ] Develop a basic kernel for system calls and interrupt handling.
   - [ ] Implement memory management (paging, segmentation).
   - [ ] Add process scheduling and multitasking.
@@ -161,38 +160,32 @@ _BTW the pay of a DS is equal to that of a SWE, has equal exit job oppurtunities
   - [ ] Implement basic device drivers (keyboard, storage).
 
 - [ ] **Compiler** | Resume Appeal: ★★★
-  - _Jaw Dropper. Recruiters value this for software engineering roles, especially in systems programming._
   - [ ] Create a lexical analyzer to tokenize input code.
   - [ ] Build a parser to generate an abstract syntax tree (AST).
   - [ ] Implement code generation to produce machine code or intermediate representation (IR).
   - [ ] Optimize the generated code (constant folding, dead code elimination).
 
 - [ ] **Distributed System** | Resume Appeal: ★★★
-  - _You'll learn networked computing, fault tolerance, and scalability. It's impressive for roles in cloud computing and backend development._
   - [ ] Design a distributed file storage system (e.g., similar to Google Drive).
   - [ ] Implement consensus algorithms (e.g., Paxos, Raft).
   - [ ] Create a microservices architecture for a sample application.
 
 - [ ] **Blockchain** | Resume Appeal: ★★☆
-  - _It's valuable for roles in fintech and security._
   - [ ] Build a simple cryptocurrency.
   - [ ] Implement a smart contract platform (e.g., Ethereum).
   - [ ] Develop a decentralized application (DApp) using smart contracts.
 
 - [ ] **Containerization Tool** | Resume Appeal: ★★☆
-  - _Docker exists. It's good for prepping DevOps roles but less complex than others._
   - [ ] Develop a basic tool for creating and managing Docker containers.
   - [ ] Implement orchestration features for scaling applications.
   - [ ] Create a user interface for managing containerized applications.
 
 - [ ] **Web Framework** | Resume Appeal: ★☆☆
-  - _A web framework project highlights understanding of web development principles and architecture. It’s beneficial but can be seen as foundational in comparison to others._
   - [ ] Build a lightweight web framework (e.g., similar to Flask or Express).
   - [ ] Implement routing, middleware, and templating.
   - [ ] Add support for RESTful APIs.
 
 - [ ] **Database Management System (DBMS)** | Resume Appeal: ★☆☆
-  - _A DBMS project is irrelevant as nobody wants to build SQL from scratch. It's fundamental but often considered basic in software development._
   - [ ] Implement storage engines for data management.
   - [ ] Create query processing and optimization features.
   - [ ] Add transaction management and indexing.

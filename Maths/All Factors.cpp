@@ -2,7 +2,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-vector<int> Solution::allFactors(int A) {
+//Solution::
+
+vector<int> allFactors(int A) {
     int k = A;
     vector<int> ans;
     
