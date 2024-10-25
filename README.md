@@ -95,10 +95,14 @@ Browse down to the ```Similar Questions``` tab under the description of a leetco
 In DS OAs, competittion is close to NULL and prep is EASY. A DS OA will always be centred around python coding ONLY. In python, it will usually be SQL and Numpy+Pandas. Practice this on Stratascratch. An easy(relative to SWE, appx. 800-1200(max) rated questions equivalent to Codeforces) coding round follows with 2-3 questions.
 <br>
 
+[Deep-ML](https://www.deep-ml.com/) **LEETCODE OF ML!!! HOLY SHIT!!!!!**   
+Do this to actually do ML seriously. This will help in making good resume projects too.
+<br>
+
 [StrataScratch](https://platform.stratascratch.com/coding?code_type=2&is_freemium=1) is the leetcode of Data Science. StrataScratch has videos on youtube that you can refer to while solving or use them as main source of reference (as a sheet per se). 
 <br>
 
-[Best Hands-on ML+DS resource ever](https://www.hackerearth.com/practice/machine-learning/prerequisites-of-machine-learning/basic-probability-models-and-rules/tutorial/) DO THIS! this is ALL you need!!
+[Best Hands-on ML+DS resource ever](https://www.hackerearth.com/practice/machine-learning/prerequisites-of-machine-learning/basic-probability-models-and-rules/tutorial/) do this for theory if you like reading
 <br>
 
 I've made a **list of buzzwords** I encountered during an DS MCQ round in the Data Science/buzzwords.txt. Do look at that. 
@@ -116,6 +120,16 @@ _BTW the pay of a DS is equal to that of a SWE, has equal exit job oppurtunities
 7. https://www.youtube.com/playlist?list=PLdrw9_aIADIO_l7hCd4xiJ2mBwiOb4jkU (StrataScratch SQL playlist you can blindly follow)
 8. SQL Hard playlist (https://www.youtube.com/playlist?list=PLBTZqjSKn0IeKBQDjLmzisazhqQy4iGkb)
 9. https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers/blob/main/Statistics%20Interview%20Questions%20%26%20Answers%20for%20Data%20Scientists.md (statistics)
+
+## EE Hardware 
+Nobody does this. If you practice Verilog well (1 week max), you can easily jump over the SWE crowd.  
+
+For eg: IBM campus recruiting, HW Engineer *(2 lakhs per months base salary)*  
+Verilog Coding round- 3 questions (type-easy to moderate)    
+Processor round- 53 MCQs (Verilog, digital electronics, COA, RISC/Pipeline,Custom Circuits & Analog/Digital Logic, Memory Technologies, type-easy to moderate)  
+Programming round- 10 MCQs (Verilog, C, C++, Python, type- easy)  
+
+To do Verilog, solve [HDLbits](https://hdlbits.01xz.net/wiki/Main_Page), [HDLbits Solutions](https://github.com/viduraakalanka/HDL-Bits-Solutions)
 
 
 ## Extra (OS + DBMS + Computer Networks + C++ dry runs)
@@ -137,7 +151,7 @@ _BTW the pay of a DS is equal to that of a SWE, has equal exit job oppurtunities
 3. https://austinhenley.com/blog/challengingalgorithms.html (best for SWE)
 4. https://raytracing.github.io/books/RayTracingInOneWeekend.html (great for SWE + Computer Vision profiles)
 
-### DIY Fundamentals
+<!-- ### DIY Fundamentals
 
 - [ ] **Game Engine** | Resume Appeal: ★★★
   - [ ] Implement a 3D rendering engine using OpenGL/Vulkan/DirectX.
@@ -188,7 +202,7 @@ _BTW the pay of a DS is equal to that of a SWE, has equal exit job oppurtunities
 - [ ] **Database Management System (DBMS)** | Resume Appeal: ★☆☆
   - [ ] Implement storage engines for data management.
   - [ ] Create query processing and optimization features.
-  - [ ] Add transaction management and indexing.
+  - [ ] Add transaction management and indexing. -->
 
 
 ## SRE/DevOps resources
