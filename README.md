@@ -26,8 +26,14 @@ First, watch this [video](https://www.youtube.com/watch?v=uoGTHbD2avE).
 
 Now, if you want to start CP, either pay and enroll in [AlgoZenith's(better)](https://maang.in/)/[TLE Eliminators](https://www.tle-eliminators.com/) courses **OR** practice [HackerEarth Tracks (The tutorials and editorials 🤌🤌🤌 *chef's kiss 💋*)](https://www.hackerearth.com/practice/) > [CSES](https://cses.fi/problemset/) >>> [CP-31 (level-wise)](https://www.tle-eliminators.com/cp-sheet) > [Senior _(Topic wise + A/B/C/D wise good arrangement, but a lot of the solutions videos are **TRASH**)_](https://asksenior.in/learn) ~ [Striver's CP Sheet (Topic wise)](https://takeuforward.org/interview-experience/strivers-cp-sheet) and Div4+3+Edu virtual contests to begin with. _**Don't** do any other CP ladder like [A2OJ](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html) or [C2](https://c2-ladders-juol.onrender.com/). Whatever I've mentioned is enough._
 <br>
+  
 
-I haven't included [Sean Prasad's list](https://seanprashad.com/leetcode-patterns/)(*this is utter trash btw*) and [Neetcode](neetcode.io). I you wanna watch videos and code in C++, I think striver is better in setting you up with the initial motivation (*and handicapping you with video solutions while giving you a false sense of security of you being able to do questions*). Choose whatever youtuber you like for the videos. If you can understand hindi, then [Code Concepts with Animesh](https://www.youtube.com/@code_concepts_with_animesh) is what I would reccomend to myself if I could time travel back to my past.  
+If you have less time on your hands, do Leetcode. Choose whatever youtuber you like for the videos. If you can understand hindi, then [Code Concepts with Animesh](https://www.youtube.com/@code_concepts_with_animesh) and [codestorywithMIK](https://www.youtube.com/channel/UCaw58edcO3ZqMw76Bvs0kGQ) is what I would reccomend to myself if I could time travel back to my past.   
+If you're doing leetcode for the first time and wanna watch videos and code in C++(**reccomended**), I think striver is better in setting you up with the C++ STL and initial motivation (*and handicapping you with video solutions, giving you a false sense of security of you being able to do questions*).  
+
+  
+
+I haven't included [Sean Prasad's list](https://seanprashad.com/leetcode-patterns/)(*this is utter trash btw*) and [Neetcode](neetcode.io)(Neetcode's list is better than Striver in terms of quality btw). 
   
 
 Once you feel you've got a grasp on the basic syntax, start practicing randomly on leetcode by sorting questions and not looking at videos before you understand the solutions/discussions on leetcode, or just do a CP sheet(that would be better if you have time).
@@ -45,11 +51,8 @@ Topic-wise questions from a leetcode list -> basics syntax done ->
 
 Second Option: Practice interviewbit they have good questions and good sub-categorisation.
 <br>
-
-Third Option: Practice on codechef (paying them money is worth it). This will be the closest to what you will get in the OA, a leetcode style interface with CP-like questions. They have an amazing SQL+Python+DS roadmap too which gets unlocked when you buy their subscription & an AI debugger within the code editor.
-<br>
-
-Fourth Option: CP list + virtual contests(if you have time).
+  
+Third Option: CP list + virtual contests(if you have time).
 <br>
 
 1. https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2
@@ -83,7 +86,7 @@ Browse down to the ```Similar Questions``` tab under the description of a leetco
 2. https://leetcode.com/discuss/general-discussion/969327/Graph-Algorithms-One-Place-or-Dijkstra-or-Bellman-Ford-or-Floyd-Warshall-or-Prims-or-Kruskals-or-DSU
 3. https://leetcode.com/discuss/general-discussion/709997/questions-based-on-articulation-points-and-bridges
 4. https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
-5. https://www.wscubetech.com/resources/dsa/floyd-warshall-algorithm (good for interview prep where one needs to revise time complexities and pseudo codes )
+5. https://www.wscubetech.com/resources/dsa/floyd-warshall-algorithm (good for interview prep where one needs to revise time complexities and pseudo codes!)
 
 ### Trees and Graphs
 1. https://www.youtube.com/playlist?list=PLICVjZ3X1AcZ5c2oXYABLHlswC_1LhelY (BEST!! I love his channel for learning concepts. Do this and then solve this trees list below)
@@ -111,7 +114,7 @@ I've made a **list of buzzwords** I encountered during an DS MCQ round in the Da
 _BTW the pay of a DS is equal to that of a SWE, has equal exit job oppurtunities, puts you in a big company, makes it easy for you to pursue an MBA later, makes it easy to get a core ML role later, the probability and stats you'll learn will help you in countless interviews and unexpected MCQ rounds, you can proudly write SQL and PostgreSQL in your CV, the test has NO competition, the prep intensity difference between SWE and DS is quite literally night and day. **If you're not preparing for it, you either are: an amazing programmer (1600< on Codeforces) or a huuuggeee fucking idiot**_
 <br>
 <br>
-1. https://github.com/srush/Tensor-Puzzles (PyTorch, not asked in DS, good to know for ML)
+1. https://github.com/srush/Tensor-Puzzles (PyTorch, not asked in DS, good to know for ML, don't do for OAs)
 2. https://www.youtube.com/live/sB6GY5pw96Q?si=p59aFafGFR2RbLs3
 3. https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb
 4. https://rajkachhadiya.medium.com/ace-your-ai-interview-mastering-machine-learning-deep-learning-q-a-2024-831e87d1942e
@@ -122,27 +125,50 @@ _BTW the pay of a DS is equal to that of a SWE, has equal exit job oppurtunities
 9. https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers/blob/main/Statistics%20Interview%20Questions%20%26%20Answers%20for%20Data%20Scientists.md (statistics)
 
 ## EE Hardware 
-Nobody does this. If you practice Verilog well (1 week max), you can easily jump over the SWE crowd.  
 
-For eg: IBM campus recruiting, HW Engineer *(2 lakhs per months base salary)*  
+Nobody does this. If you practice well (1 week max), you can easily jump over the SWE crowd.
+
+### Digital Electronics
+I like Kreatryx Gate Lectures on DE. Find his slides on this [telegram link](https://web.telegram.org/k/#@AnkitandVishalGATE).
+You can then practice on IndiaBIX, or just straight up solve leaks (*better*).  
+
+For Qualcomm & Texas Instruments (B.Tech), practice:
+1) Consensus Thm/Redundant Literal Rule
+2) K-Map (especially the POS form when given MAX Terms, and through direct inspection of the K Map (*for ckts that reduce to xor formulas once you notive its 0 when the values are same and 1 when they are different*))
+3) Frequency Division by [counters](https://www.youtube.com/watch?v=CGZBBHu0mKA)
+4) Sequence Detector Design with allowed overlap, using JK FFs (important), T FFs, D FFs (*remember their excitation tables by heart*).
+5) Shift Register after k clock cycles (very frequent)
+6) Propogation delay (not that frequent, combi. ckts are hard, only asked in Texas in 2024, not by Qualcomm)
+7) Basic CMOS design thats taught at the end of a DE course (mildly frequent)
+8) 2 Verliog code MCQs (No need to spend time on if you haven't done, verilog coding is asked in IBM, that too for masters students. Don't bother learning Verilog if you're B.Tech, unless you're going Off-Campus).
+
+### OS and COA
+[Best for OS theory](https://www.gatevidyalay.com/operating-system/), [Videos](https://www.youtube.com/watch?v=_TpOHMCODXo&list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG).  
+[Best for COA: Cache, Pipelining](https://www.gatevidyalay.com/computer-organization-architecture/). 
+
+### C programming
+INDIABIX!!!! NOTHING ELSE!!!  
+  
+  
+First take their [tests](https://www.indiabix.com/online-test/c-programming-test/). Then complete the [sections](https://www.indiabix.com/c-programming/questions-and-answers/) where you fumbled.   
+That's it!!
+  
+Extra: IBM campus recruiting, HW Engineer (**ONLY Masters for IBM HW!! EE bachelors weren't shortlisted!!**)
 Verilog Coding round- 3 questions (type-easy to moderate)    
 Processor round- 53 MCQs (Verilog, digital electronics, COA, RISC/Pipeline,Custom Circuits & Analog/Digital Logic, Memory Technologies, type-easy to moderate)  
-Programming round- 10 MCQs (Verilog, C, C++, Python, type- easy)  
+Programming round- 10 MCQs (Verilog + C/C++/Python, type-easy)  
 
 To do Verilog, solve [HDLbits](https://hdlbits.01xz.net/wiki/Main_Page), [HDLbits Solutions](https://github.com/viduraakalanka/HDL-Bits-Solutions)
 
 
-## Extra (OS + DBMS + Computer Networks + C++ dry runs)
+## Extra (DBMS + Computer Networks + OOPs)
+Note: OS, COA and C programming are covered in the **EE Hardware** Section.  
+
 1. https://algozenith.medium.com/internship-and-placement-resources-712eba3a5dee
-2. https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/
-3. https://www.youtube.com/watch?v=0u66_vNiRlo
-4. https://github.com/ranjit1032002/DBMS-Notes-For-Placement/blob/master/DBMS_Notes.pdf
-5. https://docs.google.com/document/d/1I5ZzX14p-xg47ePhdk7Xzy0Rz1x-mHZ7KCosJPc48Kk/edit?usp=sharing
-6. https://realpython.com/intro-to-python-threading/ (optional, must for parallel prog./HPC roles)
-7. https://clas.iusb.edu/docs/CSCI/C101-PracticeProblems.pdf (goated)
-8. https://www.sanfoundry.com/cplusplus-interview-questions-answers/
-9. https://www.sanfoundry.com/computer-network-questions-answers/#network-management-tools-systems-engineering
-10. https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw (OOPS GOLDMINE)
+2. https://www.youtube.com/watch?v=0u66_vNiRlo
+3. https://github.com/ranjit1032002/DBMS-Notes-For-Placement/blob/master/DBMS_Notes.pdf
+4. https://docs.google.com/document/d/1I5ZzX14p-xg47ePhdk7Xzy0Rz1x-mHZ7KCosJPc48Kk/edit?usp=sharing (When Utkarsh prepped for Texas but it didn't open for MnC lmao)
+5.  https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw (Practice BOTH C++ and JAVA. Lots of class related MCQs are asked from both, simulataneously. Practice Java and C++ programming MCQs from IndiaBIX (*this isn't C programming. You won't find classes in C programming MCQs. C programming is asked separately.*))
 
 
 ## Resume Projects
