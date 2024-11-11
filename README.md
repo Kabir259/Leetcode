@@ -6,8 +6,8 @@
 
 ```(14/10/24)``` The purpose of maintaining the Leetcode section of this repo is no more. Everything except Leetcode solutions (like C, ML, SQL, DBMS, Resume prep etc...) still remain valid. *You may go through my repo, if you want to look at my solutions or listen to my advice, simple as.*
 
-In case I find anything that can be improved upon this, I'll add footnotes here! 😸
-1. I think he hasn't covered MCM DP.
+<!-- In case I find anything that can be improved upon this, I'll add footnotes here! 😸
+1. I think he hasn't covered MCM DP. -->
 
 
 ## Before you read my 'blog'
@@ -98,14 +98,16 @@ Browse down to the ```Similar Questions``` tab under the description of a leetco
 In DS OAs, competittion is close to NULL and prep is EASY. A DS OA will always be centred around python coding ONLY. In python, it will usually be SQL and Numpy+Pandas. Practice this on Stratascratch. An easy(relative to SWE, appx. 800-1200(max) rated questions equivalent to Codeforces) coding round follows with 2-3 questions.
 <br>
 
+[Probability and Statistics](https://www.youtube.com/watch?v=rtw-tHSQTlc&list=PLO-6jspot8ALyrofp0fWp0fOb19NcFS4V). Take out a week from your schedule to complete this playlist. Leave out the esoteric topics and ditributions and focus on the popular topics. *Don't skip Mean Median Mode.*
+
 [Deep-ML](https://www.deep-ml.com/) **LEETCODE OF ML!!! HOLY SHIT!!!!!**   
-Do this to actually do ML seriously. This will help in making good resume projects too.
+Do this to actually do ML seriously. This will help in making good resume projects too. Not needed for placement prep,
 <br>
 
-[StrataScratch](https://platform.stratascratch.com/coding?code_type=2&is_freemium=1) is the leetcode of Data Science. StrataScratch has videos on youtube that you can refer to while solving or use them as main source of reference (as a sheet per se). 
+[StrataScratch](https://platform.stratascratch.com/coding?code_type=2&is_freemium=1) is the leetcode of Data Science. StrataScratch has videos on youtube that you can refer to while solving or use them as main source of reference (as a sheet per se). **Don't do Leetcode SQL 50, its utter trash.**
 <br>
 
-[Best Hands-on ML+DS resource ever](https://www.hackerearth.com/practice/machine-learning/prerequisites-of-machine-learning/basic-probability-models-and-rules/tutorial/) do this for theory if you like reading
+[Concise ML editorials](https://www.hackerearth.com/practice/machine-learning/prerequisites-of-machine-learning/basic-probability-models-and-rules/tutorial/) do this for theory if you like reading or else skip and watch videos.
 <br>
 
 I've made a **list of buzzwords** I encountered during an DS MCQ round in the Data Science/buzzwords.txt. Do look at that. 
@@ -114,36 +116,37 @@ I've made a **list of buzzwords** I encountered during an DS MCQ round in the Da
 _BTW the pay of a DS is equal to that of a SWE, has equal exit job oppurtunities, puts you in a big company, makes it easy for you to pursue an MBA later, makes it easy to get a core ML role later, the probability and stats you'll learn will help you in countless interviews and unexpected MCQ rounds, you can proudly write SQL and PostgreSQL in your CV, the test has NO competition, the prep intensity difference between SWE and DS is quite literally night and day. **If you're not preparing for it, you either are: an amazing programmer (1600< on Codeforces) or a huuuggeee fucking idiot**_
 <br>
 <br>
-1. https://github.com/srush/Tensor-Puzzles (PyTorch, not asked in DS, good to know for ML, don't do for OAs)
-2. https://www.youtube.com/live/sB6GY5pw96Q?si=p59aFafGFR2RbLs3
-3. https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb
-4. https://rajkachhadiya.medium.com/ace-your-ai-interview-mastering-machine-learning-deep-learning-q-a-2024-831e87d1942e
-5. https://www.youtube.com/playlist?list=PLgJhDSE2ZLxaY_DigHeiIDC1cD09rXgJv
-6. https://www.youtube.com/watch?v=phai5Jegnew&list=PLtfxzVLWb-B9KsCCrBUE5a2HcaodgOHSi (StrataScratch python+numpy+pandas playlist you can blindly follow)
-7. https://www.youtube.com/playlist?list=PLdrw9_aIADIO_l7hCd4xiJ2mBwiOb4jkU (StrataScratch SQL playlist you can blindly follow)
-8. SQL Hard playlist (https://www.youtube.com/playlist?list=PLBTZqjSKn0IeKBQDjLmzisazhqQy4iGkb)
-9. https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers/blob/main/Statistics%20Interview%20Questions%20%26%20Answers%20for%20Data%20Scientists.md (statistics)
+1. https://github.com/srush/Tensor-Puzzles (PyTorch Puzzles, not asked in DS, good to know for ML, don't do for OAs)
+2. https://www.learnpytorch.io/ (Correct way to learn pytorch, implement papers)
+3. https://www.youtube.com/live/sB6GY5pw96Q?si=p59aFafGFR2RbLs3
+4. https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb
+5. https://rajkachhadiya.medium.com/ace-your-ai-interview-mastering-machine-learning-deep-learning-q-a-2024-831e87d1942e
+6. https://www.youtube.com/watch?v=phai5Jegnew&list=PLtfxzVLWb-B9KsCCrBUE5a2HcaodgOHSi (StrataScratch python+numpy+pandas playlist)
+7. https://www.youtube.com/watch?v=ANx1nb8wjoU&list=PLtmtbQM8lykRRiRmsLT31tUfDv2bZkDtI (Do this to get started with SQL, then do their medium and hard playlist too (*mandatory*))
+8. https://www.youtube.com/playlist?list=PLBTZqjSKn0IeKBQDjLmzisazhqQy4iGkb (SQL super hard + tricky)
+9.  https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers/blob/main/Statistics%20Interview%20Questions%20%26%20Answers%20for%20Data%20Scientists.md (statistics for interviews)
 
 ## EE Hardware 
 
 Nobody does this. If you practice well (1 week max), you can easily jump over the SWE crowd.
 
 ### Digital Electronics
-I like Kreatryx Gate Lectures on DE. Find his slides on this [telegram link](https://web.telegram.org/k/#@AnkitandVishalGATE).
+I like [Kreatryx Gate Lectures](https://www.youtube.com/playlist?list=PLs5_Rtf2P2r41iuDKULDHHnIwfXyTAxBH) on DE. Find his slides on this [telegram link](https://web.telegram.org/k/#@AnkitandVishalGATE).
 You can then practice on IndiaBIX, or just straight up solve leaks (*better*).  
 
 For Qualcomm & Texas Instruments (B.Tech), practice:
 1) Consensus Thm/Redundant Literal Rule
-2) K-Map (especially the POS form when given MAX Terms, and through direct inspection of the K Map (*for ckts that reduce to xor formulas once you notive its 0 when the values are same and 1 when they are different*))
-3) Frequency Division by [counters](https://www.youtube.com/watch?v=CGZBBHu0mKA)
-4) Sequence Detector Design with allowed overlap, using JK FFs (important), T FFs, D FFs (*remember their excitation tables by heart*).
+2) K-Map (especially the POS form when given MAX Terms, and through direct inspection of the K Map (*for ckts that reduce to xor formulas once you notice its 0 when the values are same and 1 when they are different like AxorBxorCxorD*))
+3) Frequency Division by [counters](https://www.youtube.com/watch?v=CGZBBHu0mKA). Do counters thoroughly!
+4) Sequence Detector Design with allowed overlap (frequent in Qualcomm), using JK FFs (important), T FFs, D FFs (*remember their excitation tables by heart*).
 5) Shift Register after k clock cycles (very frequent)
 6) Propogation delay (not that frequent, combi. ckts are hard, only asked in Texas in 2024, not by Qualcomm)
 7) Basic CMOS design thats taught at the end of a DE course (mildly frequent)
 8) 2 Verliog code MCQs (No need to spend time on if you haven't done, verilog coding is asked in IBM, that too for masters students. Don't bother learning Verilog if you're B.Tech, unless you're going Off-Campus).
+9) [This lecture](https://www.youtube.com/watch?v=lD40mP6VDQQ&list=PLs5_Rtf2P2r41iuDKULDHHnIwfXyTAxBH&index=56) is super important. Problems related to memory are super frequent. The MCQs for this are made out of [Morris Mano](https://www.libgen.is/book/index.php?md5=BA43DBB80B34A106E7D8ECCDC90443CA) Ch-7 (*[Question 7.8 (a)](https://www.youtube.com/watch?v=tMyYTLwG8jE) was directly asked in Texas Instruments 2024*). 
 
 ### OS and COA
-[Best for OS theory](https://www.gatevidyalay.com/operating-system/), [Videos](https://www.youtube.com/watch?v=_TpOHMCODXo&list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG).  
+[Best for OS theory](https://www.gatevidyalay.com/operating-system/), [Videos](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p).  
 [Best for COA: Cache, Pipelining](https://www.gatevidyalay.com/computer-organization-architecture/). 
 
 ### C programming
@@ -153,7 +156,7 @@ INDIABIX!!!! NOTHING ELSE!!!
 First take their [tests](https://www.indiabix.com/online-test/c-programming-test/). Then complete the [sections](https://www.indiabix.com/c-programming/questions-and-answers/) where you fumbled.   
 That's it!!
   
-Extra: IBM campus recruiting, HW Engineer (**ONLY Masters for IBM HW!! EE bachelors weren't shortlisted!!**)
+Extra: IBM campus recruiting, HW Engineer (**ONLY Masters for IBM HW!! EE bachelors weren't shortlisted!!**)  
 Verilog Coding round- 3 questions (type-easy to moderate)    
 Processor round- 53 MCQs (Verilog, digital electronics, COA, RISC/Pipeline,Custom Circuits & Analog/Digital Logic, Memory Technologies, type-easy to moderate)  
 Programming round- 10 MCQs (Verilog + C/C++/Python, type-easy)  
@@ -168,7 +171,7 @@ Note: OS, COA and C programming are covered in the **EE Hardware** Section.
 2. https://www.youtube.com/watch?v=0u66_vNiRlo
 3. https://github.com/ranjit1032002/DBMS-Notes-For-Placement/blob/master/DBMS_Notes.pdf
 4. https://docs.google.com/document/d/1I5ZzX14p-xg47ePhdk7Xzy0Rz1x-mHZ7KCosJPc48Kk/edit?usp=sharing (When Utkarsh prepped for Texas but it didn't open for MnC lmao)
-5.  https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw (Practice BOTH C++ and JAVA. Lots of class related MCQs are asked from both, simulataneously. Practice Java and C++ programming MCQs from IndiaBIX (*this isn't C programming. You won't find classes in C programming MCQs. C programming is asked separately.*))
+5.  https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw (Practice BOTH C++ and JAVA. Lots of class related MCQs are asked from both, simulataneously. Practice Java and C++ programming MCQs from IndiaBIX (***NOTE:** This isn't C programming. You won't find classes in C programming MCQs. C programming is asked separately.*))
 
 
 ## Resume Projects
@@ -176,59 +179,6 @@ Note: OS, COA and C programming are covered in the **EE Hardware** Section.
 2. https://austinhenley.com/blog/morechallengingprojects.html (best for SWE)
 3. https://austinhenley.com/blog/challengingalgorithms.html (best for SWE)
 4. https://raytracing.github.io/books/RayTracingInOneWeekend.html (great for SWE + Computer Vision profiles)
-
-<!-- ### DIY Fundamentals
-
-- [ ] **Game Engine** | Resume Appeal: ★★★
-  - [ ] Implement a 3D rendering engine using OpenGL/Vulkan/DirectX.
-  - [ ] Build a real-time physics simulation (collision detection, dynamics).
-  - [ ] Add AI systems for basic game behavior (pathfinding, decision-making).
-  - [ ] Optimize for performance: reduce memory usage, improve frame rates.
-  - [ ] Implement user input handling (keyboard, mouse, controller).
-
-- [ ] **Raytracer** | Resume Appeal: ★★★
-  - [ ] Implement basic ray-object intersections for rendering.
-  - [ ] Add reflections, refractions, and shadow effects.
-  - [ ] Apply texture mapping to 3D surfaces.
-  - [ ] Optimize with bounding volumes or acceleration structures (e.g., BVH).
-
-- [ ] **Operating System** | Resume Appeal: ★★★
-  - [ ] Develop a basic kernel for system calls and interrupt handling.
-  - [ ] Implement memory management (paging, segmentation).
-  - [ ] Add process scheduling and multitasking.
-  - [ ] Create a file system supporting basic read/write operations.
-  - [ ] Implement basic device drivers (keyboard, storage).
-
-- [ ] **Compiler** | Resume Appeal: ★★★
-  - [ ] Create a lexical analyzer to tokenize input code.
-  - [ ] Build a parser to generate an abstract syntax tree (AST).
-  - [ ] Implement code generation to produce machine code or intermediate representation (IR).
-  - [ ] Optimize the generated code (constant folding, dead code elimination).
-
-- [ ] **Distributed System** | Resume Appeal: ★★★
-  - [ ] Design a distributed file storage system (e.g., similar to Google Drive).
-  - [ ] Implement consensus algorithms (e.g., Paxos, Raft).
-  - [ ] Create a microservices architecture for a sample application.
-
-- [ ] **Blockchain** | Resume Appeal: ★★☆
-  - [ ] Build a simple cryptocurrency.
-  - [ ] Implement a smart contract platform (e.g., Ethereum).
-  - [ ] Develop a decentralized application (DApp) using smart contracts.
-
-- [ ] **Containerization Tool** | Resume Appeal: ★★☆
-  - [ ] Develop a basic tool for creating and managing Docker containers.
-  - [ ] Implement orchestration features for scaling applications.
-  - [ ] Create a user interface for managing containerized applications.
-
-- [ ] **Web Framework** | Resume Appeal: ★☆☆
-  - [ ] Build a lightweight web framework (e.g., similar to Flask or Express).
-  - [ ] Implement routing, middleware, and templating.
-  - [ ] Add support for RESTful APIs.
-
-- [ ] **Database Management System (DBMS)** | Resume Appeal: ★☆☆
-  - [ ] Implement storage engines for data management.
-  - [ ] Create query processing and optimization features.
-  - [ ] Add transaction management and indexing. -->
 
 
 ## SRE/DevOps resources
