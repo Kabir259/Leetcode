@@ -153,6 +153,7 @@ Gave the company's first round in between my PwC rounds. Got asked basic questio
 I sat with a big stupid grin plastered all over my face and even had the courage to do small talk with the interviewer. He was super impressed by my fluent english, my clean attire and my confidence and complimented me on it. I told him I can't join the company and it would be nice if he could have me as an intern in his company for 6 months and then give me a FTE if I showed interest by then. He agreed and said if I'd leave PwC for the company, he'd raise my base pay from 8 -> 15LPA, and my CTC 10 -> 20LPA and called me in his office in Gurugram the very next day. *I was able to negotiate because I knew they rejected everyone BUT me, and I felt powerful due to an offer at PwC*.   
 The very next day I get 2 more offers from ML startups on LinkedIn. Everything felt surreal.
 
+![](.assets/2024-12-12-23-16-21.png)
 
 And this is how I got placed. Not by solving Leetcode, not by maintaining this repository but by being confident and talking my way out of the interview into the job. I would've NEVER thought, even in my wildest dreams that I'd bag multiple offers after 10 days. I'd never forget this for the rest of my life.   
 
