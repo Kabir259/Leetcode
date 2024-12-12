@@ -31,12 +31,12 @@ Didn't have any interviews sceduled, as I didn't get shortlisted in any SWE role
 ### Day 2
 2 shortlists! One in 2.1 slot and the other in 2.2.  
   
-**Co##in(Role: MLE, Base: 30LPA, CTC: 40LPA): REJECTED**  
+```Co##in(Role: MLE, Base: 30LPA, CTC: 40LPA): REJECTED```  
 The interviewer was a goofball. Didn't know much. He had bad grades when he graduated from IITD and had a superiority complex. First round was only my CV discussion which went on for 2 hours, compared to other candidates who were over with their initial screening round in 10-20 minutes. My Mistakes? My CV was too overwhelming, and I sometimes wasn't able to explain some few basic concepts.  
 The candidates who went on forward were asked outrageous questions like write the maths for SVMs, Latent Dirchlet Allocation and other out of the blue concepts like it was a viva. The one who went to the final round was told that he would be given SDE instead of MLE (even though he answered all the weird questions) with a compensation of 10 lakhs less! They wanted someone with papers in A* conferences.  
   
 
-**Dr#######it AI(Role: MLE, Base: 14LPA, CTC: 28LPA): REJECTED**  
+```Dr#######it AI(Role: MLE, Base: 14LPA, CTC: 28LPA): REJECTED```  
 2 rounds. First was a talk meet-n-greet with the CTO. Passed (many failed here). Next round, he asked 2 questions: How would you implement throttling for API calls, and how would you translate a paragraph worth 100 words if google translate could only process 50 words? (Answer: Split on the basis of '.' and if the sentence is longer than 50 words, split on the basis of conjunctions).  
 I was pretty confident because the round went well and I was the only person shortlisted who was in the final round. Then they opened the waitlist. Extra candidates came and gave their interviews. I didn't get selected. 
 
@@ -49,24 +49,24 @@ Later, it was found out that the interviewer took students from the waitlist who
 ![](.assets/2024-12-12-23-08-26.png)
 *Me heading to give Kotak's test, admiring the chilly dawn as my stomach growls **grrrr***.
    
-**Ap##rt/Qu#####ll (Role: MLE, Base: 36LPA, CTC: 36LPA): REJECTED**  
+```Ap##rt/Qu#####ll (Role: MLE, Base: 36LPA, CTC: 36LPA): REJECTED```    
 My project submission: https://github.com/Kabir259/RagDoc   
 
 Among the 5 shortlisted candidates, I had the best chances as my project was super awesome, my CV was relevant and I thought circuital privilege would work in my favor.  
 However, the round 1 lasted for only 20 mins and the interviewer didn't even ask about my project! He straight up asked about my CV and then told me to write OPTIMISED code (in BOTH Javascript and Python ONLY) in one go. The question was to find the intersection of elements in an array of arrays. I asked if I could do C++ and he refused.  
 The person who did actually solve the question in Javascript was then told in the second round that they only wanted someone from CSE that was up-to-date with latest technologies for chatbots like Llama Index etc. from their first year! They took noone from the campus.
 
-**ARM (Role: HWE, Base: 17LPA, CTC: 25LPA): REJECTED**  
+```ARM (Role: HWE, Base: 17LPA, CTC: 25LPA): REJECTED```  
 Wasn't shortlisted but they called cherrypicked candidates for interviews anyways. I didn't know what had I written in my EE CV and was bound to get rejected. Although for other candidates, they asked basic DE questions like CMOS TTL, NAND NOR etc.  
 
-**Kotak Mahindra Bank (Role: DS, Base: 15LPA, CTC: 18LPA): REJECTED**  
+```Kotak Mahindra Bank (Role: DS, Base: 15LPA, CTC: 18LPA): REJECTED```  
 Interview slot clashed with ARM so I couldn't give it. From what I heard, the interviews were pretty hard and lots of theoretical ML and Statistics was not only asked but the candidate also had to implement things like hypothesis testing in SQL too. They took 3 rounds.
   
-**Up###ge Labs (Role: MLE, Base: 18LPA, CTC: 18LPA): REJECTED**  
+```Up###ge Labs (Role: MLE, Base: 18LPA, CTC: 18LPA): REJECTED```  
 Super weird company. The interview felt like talking to a spoilt rich kid about how he's about to change the world with his AI inventions in robotics, for space etc. No technical questions, scenario based and personality based quiz.  
 The company didn't even release the results after the day ended which is illegal. They released it next day and it seemed to be pretty random. A LOT of people were interviewed by them.  
 
-**Ne###n7 AI (Role: DS, Base: 9LPA, CTC: 24LPA): REJECTED**  
+```Ne###n7 AI (Role: DS, Base: 9LPA, CTC: 24LPA): REJECTED```  
 3 rounds for everyone which was reduced to 2 rounds due to timing constraints. HR round was cropped out.  
 
 First round: They had a standard doc they were referring to for all questions. All the deep learning questions could be solved by glancing over through any playlist on YouTube. The next 2 coding questions were: minimum path sum and Optimal Strategy for a Game (on GfG). Solved both and headed to next round.  
@@ -81,7 +81,7 @@ Later it was again found out that interviewers took students from their hostels 
 ### Day 4
 Woke up with dried tears on my cheek. Got ready for the last company that I could feel confident in and headed away.   
 
-**Au###to AI (Role: Speech Eng., Base: 10LPA, CTC: 21LPA): REJECTED**  
+```Au###to AI (Role: Speech Eng., Base: 10LPA, CTC: 21LPA): REJECTED```    
 Deployed Demo: https://huggingface.co/spaces/Kabir259/medspeechrec  
 PDF Report (in LaTeX): https://github.com/Kabir259/BenchASR-LLM4Med/blob/main/main.pdf   
 
@@ -96,14 +96,14 @@ Turns out this other guy was a wildcard entry into the shortlisting list who did
 
 The tide of grief that crashed on me after failing the first interview, after working on its project for 150 hours was diluted by the wave of relief I felt when I heard about this Mr.wildcard. It was like god told me that things are just out of your control and that I should stop doubting myself. 
 
-**Equbot AI (Role: MLE, Base: 15LPA, CTC: 22LPA): REJECTED**  
+```Equbot AI (Role: MLE, Base: 15LPA, CTC: 22LPA): REJECTED```  
 Wasn't able to give the interview due to grief, owing to my rejection in Au###to AI.
 Had nothing else sceduled for the day. Went back and slept.
 
 
 ### Day 5
-Had 1 interview sceduled.
-**KPMG India (Role: Senior Analyst, Base: 8LPA, CTC: 12LPA): REJECTED**  
+Had 1 interview sceduled.  
+```KPMG India (Role: Senior Analyst, Base: 8LPA, CTC: 12LPA): REJECTED```  
 First Round was GD, the topic was Time Poverty: Myth or not? Spoke well but went on a tangent. Rejected.  
 
 Parallely, interviews for KPMG Global were also being carried out and the shortlisting criteria was circuital only. My friends gave the interviews which mainly had 3 rounds. Basic ML and pandas/sci-kit learn code was asked. Only 1 was selected, none of my friends were.
@@ -115,8 +115,8 @@ Had nothing sceduled. Funnily enough, when I went to my own hostel's mess in the
 
 
 ### Day 7  
-1 interview. Mustered some strength and went to LHC.
-**Dozee (Role: MLE, Base: 15LPA, CTC: 22LPA): REJECTED**  
+1 interview. Mustered some strength and went to LHC.  
+```Dozee (Role: MLE, Base: 15LPA, CTC: 22LPA): REJECTED```  
 Round 1, they asked me about my CV and proceeded to share a colab notebook with me. It had some basic pandas and seaborne function writing and plotting questions. Issue was that colab was autocompleting the code so I said that there's no point to the assignment and we switched to the normal video call. I asked him to grill me. He said he doesn't know Deep Learning (he was a PhD and the lead DS in the company). Fed up, I said that I don't know what you're asking and you don't know the contents of my CV. I'm ending this call. Proceeded to drop the call on him and cycle back to hostel.  
 
 Miraculously, I was called and told my round 2 was sceduled! I think they liked my confidence as only 3/12 students went into round 2 hehe.  
@@ -129,11 +129,11 @@ Didn't have any interviews sceduled. Stayed in my home in Delhi and talked to pa
 ### Day 9
 Rushed to LHC from home. Had 2 interviews sceduled. I gave LnT Finance's test the previous night however wasn't shortlisted. A close friend of mine got selected in it. I thought now even in the LHC, I would be all alone in the future haha.  
 
-**Intellimation AI (Role: SDE, Base: 8?LPA, CTC: 11?LPA): REJECTED**  
+```Intellimation AI (Role: SDE, Base: 8?LPA, CTC: 11?LPA): REJECTED```  
 Round 1, find errors in given OOPS code. Choice was between Python, Java, C++ and I chose C++. Passed.
-Round 2, the panel grilled me on the project I prepared the least in my CV (noone had asked me about it before this). Rejected.
+Round 2, the panel grilled me on the project I prepared the least in my CV (noone had asked me about it before this). Rejected.  
 
-**Avathon/SparkCognition (Role: SDE, Base: 7LPA, CTC: 12LPA): REJECTED**  
+```Avathon/SparkCognition (Role: SDE, Base: 7LPA, CTC: 12LPA): REJECTED```  
 I was DONE. I knew only honesty and being blunt could save me now. Walked to the interviewer and gave him a firm handshake. Told him all the small lies on my CV, all my weak points, summarised everything so that he could navigate through my CV. He coincidentally worked in the same domain as my CV projects and we had a great candid discussion on them. I was able to answer everything clearly and confidently.  
 Then he asked me about: What is a reference in C++? This caught my offguard as I knew this is a super easy question and me being unable to answer it kind of made me panic and go on tangents. Second question was to split a binary tree symmetrically in structure (nodes didn't have any value). Wasn't able to answer. Rejected. Didn't really feel bad or anything.  
 
@@ -143,11 +143,11 @@ Gave PwC's test after the interview and slept.
 ### Day 10 (Placed!!!)
 Woke up to find out only 5 people were shortlisted in PwC, all circuital. I also had a shortlist from a company called Le####rp AI. Went and got a shave, wore a tie, washed my hair and applied perfume for PwC. I didn't dress this good since day 2 haha.
 
-**PwC India (Role: Associate, Base: 8LPA, CTC: 10LPA): SELECTED**  
+```PwC India (Role: Associate, Base: 8LPA, CTC: 10LPA): SELECTED```  
 3 rounds. 2 resume screening, 1 HR. Dominated both resume screening rounds, knew exactly what to say, what not to say. Sold myself with a smile, looked great, spoke with confidence and took control of the entire round. Added a personal flair this time by saying I am in the music club, and that I do makeup as well. I realised THIS was the thing I was missing! I felt like a robot during interviews and my CV didn't help either. Me opening up about what I like outside acads broke the ice and made the entire round smooth as butter. Breezed through all the rounds.  
 My portal gets blocked by 3 PM. One of the happiest days of my life!
 
-**Le####rp AI (Role: MLE, Base: 8 -> 15LPA, CTC: 10 -> 20LPA): SELECTED**  
+```Le####rp AI (Role: MLE, Base: 8 -> 15LPA, CTC: 10 -> 20LPA): SELECTED```  
 Gave the company's first round in between my PwC rounds. Got asked basic questions on Deep Learning and CNNs and I was the only person who got selected for round 2. However the round 2 was sceduled at 4 PM, and I had gotten my PwC offer by 3, which I had accepted.   
 
 I sat with a big stupid grin plastered all over my face and even had the courage to do small talk with the interviewer. He was super impressed by my fluent english, my clean attire and my confidence and complimented me on it. I told him I can't join the company and it would be nice if he could have me as an intern in his company for 6 months and then give me a FTE if I showed interest by then. He agreed and said if I'd leave PwC for the company, he'd raise my base pay from 8 -> 15LPA, and my CTC 10 -> 20LPA and called me in his office in Gurugram the very next day. *I was able to negotiate because I knew they rejected everyone BUT me, and I felt powerful due to an offer at PwC*.   
